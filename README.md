@@ -1,16 +1,23 @@
-### Hi there 👋
+### 👋**Welcome to my ***PROFILE!!***** 👋
+##  I AM PASSIONATE ABOUT TECHNOLOGY😀😁
 
-<!--
-**fedegbo/fedegbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ABOUT ME
+- 👇 **Education** 👇
+    - COMMPUTING ENGINING, `UBA`
+    - HTML and CSS COURSE in `Platzi` 
+    - GIT course in `Platzi`
+    - GIT course in `Platzi` 
+    - Algorithms and Logical thinking in `Platzi`
+    - HTML and CSS course in `Platzi`
+    - HTML and CSS course in **UTN** `(University National of Technology)`
+    - PYTHON course in `Platzi`
+    
+    # Links 
+    
+     **social networks**
+    
+    - [Linkedin](https://linkedin.com/in/fedegbo/) 😀
+    - [Twitter](https://twitter.com/fedegbo12) 😁
+    - [Instagram](https://instagram/fedegbo12/) 😎
+        
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
