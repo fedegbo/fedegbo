@@ -1,5 +1,4 @@
 ### 👋**Welcome to my ***PROFILE!!***** 👋
-##  I AM PASSIONATE ABOUT TECHNOLOGY😀😁
 
 # ABOUT ME
 - 👇 **Education** 👇
