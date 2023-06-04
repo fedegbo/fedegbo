@@ -17,6 +17,3 @@
     
     - [Linkedin](https://linkedin.com/in/fedegbo/) 😀
     - [Twitter](https://twitter.com/fedegbo12) 😁
-    - [Instagram](https://instagram/fedegbo12/) 😎
-        
-
