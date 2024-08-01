@@ -10,9 +10,6 @@
     - HTML and CSS course in **UTN** `(University National of Technology)`
     - PYTHON course in `Platzi`
     
-    # Links 
+ 
     
-     **social networks**
-    
-    - [Linkedin](https://linkedin.com/in/fedegbo/) 😀
-    - [ X ](https://twitter.com/fedegbo12) 😁
+ - [Linkedin](https://linkedin.com/in/fedegbo/) 😀
