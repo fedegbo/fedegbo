@@ -1,4 +1,4 @@
-### 👋**Welcome to my ***PROFILE!!***** 👋
+### 👋**Welcome to my ***profile!!***** 👋
 
 # ABOUT ME
 - 👇 **Education** 👇
