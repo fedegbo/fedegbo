@@ -1,6 +1,6 @@
 <div align="center">
 
-# Federico G. 👋
+# Federico Gaston Blanco Ortiz. 👋
 ### Ingeniería en Sistemas · UTN
 **Apasionado por los datos, los sistemas y construir cosas que escalen.**
 
