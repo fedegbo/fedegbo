@@ -2,7 +2,7 @@
 
 # Federico Gaston Blanco Ortiz. 👋
 ### Ingeniería en Sistemas · UTN
-**Apasionado por los datos, los sistemas y construir cosas que escalen.**
+**Apasionado por los datos, los sistemas y construir sistemas que escalen.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fedegbo/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fedegbo)
@@ -13,7 +13,7 @@
 
 ## 🧠 Sobre mí
 
-Soy estudiante de Ingeniería en Sistemas en la **UTN**, me encanta la rama de **Data Engineering** y sistemas orientados a datos.
+Me encanta la rama de **Data Engineering** y sistemas orientados a datos.
 Me interesa el ciclo completo: desde conectar y modelar datos crudos hasta exponerlos de forma confiable y eficiente.
 
 Trabajo de forma autodidacta y metódica — aprendo construyendo proyectos reales, no solo siguiendo tutoriales.
